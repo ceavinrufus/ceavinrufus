@@ -38,8 +38,6 @@ Want to know more about me? [Check out my portfolio.](https://ceavinr.netlify.ap
 - [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
 BLOG-POST-LIST:END -->
 
-<br>
-
 ## 📌 Pinned Repositories
 
 <br>
@@ -49,8 +47,6 @@ BLOG-POST-LIST:END -->
 </a>
 
 
-<br>
-<br>
 
 ## &#x1f4c8; GitHub Stats
 
