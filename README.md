@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=ceavinr&color=brightgreen" alt="watching_count" />
+
+### Hi there, I'm Ceavin Rufus 👋
 
 <!--
 **ceavinr/ceavinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +24,7 @@ Here are some ideas to get you started:
 
 Hey there 👋
 
-I’m Ceavin Rufus, a junior front-end engineer, self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m a junior front-end engineer, self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my portfolio.](https://ceavinr.netlify.app/)
 <!--
@@ -43,7 +45,7 @@ BLOG-POST-LIST:END -->
 <br>
 
 <a href="https://github.com/ceavinr/movie-hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinr&repo=movie-hub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinr&repo=movie-hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
 
 
@@ -52,32 +54,36 @@ BLOG-POST-LIST:END -->
 
 <br>
 
-<a href="https://github.com/ceavinr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceavinr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="http://www.github.com/ceavinr">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceavinr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
+</a>
+<a href="http://www.github.com/ceavinr">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+</a>
+<a href="https://github.com/ceavinr" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceavinr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&layout=compact" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/ceavinr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ceavinr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ceavin Rufus's GitHub Stats" />
-</a>
 
 <br>
 <br>
+
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-<!-- ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197) -->
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=1C1917&color=0D718A)
+<!-- ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&labelColor=1C1917&color=0D718A) -->
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=1C1917&color=0D718A)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&labelColor=1C1917&color=0D718A)
 
 <!-- <br>
 
@@ -89,13 +95,13 @@ BLOG-POST-LIST:END -->
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=1C1917&color=0D718A)
 
 </details>
 
