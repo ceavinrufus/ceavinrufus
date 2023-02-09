@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=ceavinr&color=brightgreen" alt="watching_count" />
 
-### Hi there, I'm Ceavin Rufus 👋
+# Hi there, I'm Ceavin Rufus 👋
 
 <!--
 **ceavinr/ceavinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 <!--
 [![Ceavin Rufus's GitHub Banner](./assets/GitHubHeader.png)](https://ceavinr.netlify.app)
 -->
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ceavinrufus)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ceavinrufus/)
-
-Hey there 👋
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1&labelColor=1C1917)](https://twitter.com/ceavinrufus)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&labelColor=1C1917)](https://www.linkedin.com/in/ceavinrufus/)
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=5652C8&labelColor=1C1917)](https://www.instagram.com/ceavinrufus/)
 
 I’m a junior front-end engineer, self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
@@ -69,31 +68,27 @@ BLOG-POST-LIST:END -->
 <br>
 
 
-## 💼 Skills
+## 💼 Tech & Tools
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=1C1917&color=0D718A)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&labelColor=1C1917&color=0D718A)
-<!-- ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&labelColor=1C1917&color=0D718A) -->
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&labelColor=1C1917&color=0D718A)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&labelColor=1C1917&color=0D718A)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=1C1917&color=0D718A)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=1C1917&color=0D718A)
 
-<details>
-<summary>More Skills</summary>
-<br>
+
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&labelColor=1C1917&color=0D718A)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&labelColor=1C1917&color=0D718A)
+
+<!-- <details> -->
+<!-- <summary>More Skills</summary> -->
+<!-- <br> -->
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&labelColor=1C1917&color=0D718A)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&labelColor=1C1917&color=0D718A)
 
-<!-- <br>
-
-![](https://img.shields.io/badge/Code-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197) -->
-
-<br>
+<!-- <br> -->
 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&labelColor=1C1917&color=0D718A)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&labelColor=1C1917&color=0D718A)
@@ -103,6 +98,6 @@ BLOG-POST-LIST:END -->
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&labelColor=1C1917&color=0D718A)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&labelColor=1C1917&color=0D718A)
 
-</details>
+<!-- </details> -->
 
 <br>
