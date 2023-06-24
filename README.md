@@ -1,9 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=ceavinr&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=ceavinrufus&color=brightgreen" alt="watching_count" />
 
 # Hi there, I'm Ceavin Rufus 👋
 
 <!--
-**ceavinr/ceavinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ceavinrufus/ceavinrufus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,8 +43,8 @@ BLOG-POST-LIST:END -->
 
 <br>
 
-<a href="https://github.com/ceavinr/movie-hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinr&repo=movie-hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+<a href="https://github.com/ceavinrufus/movie-hub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=movie-hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
 
 
@@ -53,14 +53,14 @@ BLOG-POST-LIST:END -->
 
 <br>
 
-<a href="http://www.github.com/ceavinr">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceavinr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
+<a href="http://www.github.com/ceavinrufus">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceavinrufus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
 </a>
-<a href="http://www.github.com/ceavinr">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+<a href="http://www.github.com/ceavinrufus">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinrufus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
 </a>
-<a href="https://github.com/ceavinr" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceavinr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&layout=compact" alt="Top Languages" />
+<a href="https://github.com/ceavinrufus" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceavinrufus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&layout=compact" alt="Top Languages" />
 </a>
 
 
