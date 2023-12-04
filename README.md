@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--
-[![Ceavin Rufus's GitHub Banner](./assets/GitHubHeader.png)](https://ceavinr.netlify.app)
+[![Ceavin Rufus's GitHub Banner](./assets/GitHubHeader.png)](https://ceavinrufus.netlify.app)
 -->
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ceavinrufus)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceavinrufus/)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 I’m a junior front-end engineer, self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-Want to know more about me? [Check out my portfolio.](https://ceavinr.netlify.app/)
+Want to know more about me? [Check out my portfolio.](https://ceavinrufus.netlify.app/)
 <!--
 ## 📝 Latest Blog Posts
 -->
