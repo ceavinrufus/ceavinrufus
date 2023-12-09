@@ -1,5 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=ceavinrufus&color=brightgreen" alt="watching_count" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ceavinrufus/ceavinrufus/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ceavinrufus/ceavinrufus/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ceavinrufus/ceavinrufus/output/github-contribution-grid-snake.svg">
+</picture>
+
 # Hi there, I'm Ceavin Rufus 👋
 
 <!--
