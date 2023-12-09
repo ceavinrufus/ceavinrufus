@@ -56,10 +56,10 @@ BLOG-POST-LIST:END -->
 
 <br>
 <a href="http://www.github.com/ceavinrufus">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceavinrufus&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceavinrufus&show_icons=true&hide=&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
 </a>
 <a href="http://www.github.com/ceavinrufus">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinrufus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinrufus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak" />
 </a>
 <a href="https://github.com/ceavinrufus" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceavinrufus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&layout=compact" alt="Top Languages" />
