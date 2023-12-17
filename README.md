@@ -49,9 +49,11 @@ BLOG-POST-LIST:END -->
 
 <br>
 
+<!--
 <a href="https://github.com/ceavinrufus/movie-hub">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=movie-hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
+-->
 <a href="https://github.com/ceavinrufus/tubes-microservices-tst">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=tubes-microservices-tst&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
