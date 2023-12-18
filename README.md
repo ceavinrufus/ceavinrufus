@@ -63,8 +63,10 @@ BLOG-POST-LIST:END -->
 ## &#x1f4c8; GitHub Stats
 
 <br>
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ceavinrufus&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <a href="http://www.github.com/ceavinrufus">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceavinrufus&show_icons=true&hide=&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceavinrufus&show_icons=true&include_all_commits=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" alt="Ceavin Rufus' Github Stats" />
 </a>
 <a href="http://www.github.com/ceavinrufus">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinrufus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak" />
@@ -85,6 +87,7 @@ BLOG-POST-LIST:END -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=black)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
@@ -104,18 +107,15 @@ BLOG-POST-LIST:END -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
 ### Cloud
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### Testing
+### SRE
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-### Containerization and Orchestration
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
