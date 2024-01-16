@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceavinrufus/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ceavinrufus/)
 
-I’m a junior front-end engineer, self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm a dedicated full-stack web developer with a passion for crafting dynamic and visually appealing online experiences. With a solid foundation in HTML, CSS, and Javascript, coupled with expertise in cutting-edge frameworks, I specialize in transforming ideas into captivating digital realities.
+
+- ✨ Proficient in HTML, CSS, and Javascript, I leverage the latest technologies to build responsive and user-friendly websites.
+- 🚀 With a focus on cutting-edge frameworks, including React, Angular, and Next.js, I create seamless and interactive web applications that resonate with modern audiences.
+- 🔄 I take pride in overseeing projects from concept to completion. Your vision is my priority, and I ensure every detail aligns with your goals.
 
 Want to know more about me? [Check out my portfolio.](https://ceavinrufus.netlify.app/)
 
