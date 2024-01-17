@@ -111,7 +111,7 @@ BLOG-POST-LIST:END -->
 <br>
 <br>
 
-## 💼 LeetCode Stats
+## 👨‍💻 LeetCode Stats
 <a href="https://leetcode.com/ceavinrufus/" align="left">
   <img src="https://leetcard.jacoblin.cool/ceavinrufus?theme=dark&extension=heatmap" alt="LeetCode Stats" />
 </a>
