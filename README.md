@@ -88,8 +88,11 @@ BLOG-POST-LIST:END -->
 <a href="https://gitlab.informatika.org/ceavinrufus/tubes-rpl">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=sambat-futsal-rpl&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
-<a href="https://gitlab.informatika.org/ceavinrufus/tubes-apks">
+<a href="https://github.com/ceavinrufus/tubes-apks">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=tubes-apks&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
+<a href="https://github.com/ceavinrufus/tucil1-kripto">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=tucil1-kripto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
 </details>
 
