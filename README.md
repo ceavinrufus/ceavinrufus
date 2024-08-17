@@ -96,6 +96,15 @@ BLOG-POST-LIST:END -->
 <a href="https://github.com/ceavinrufus/tucil2-kripto">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=tucil2-kripto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
 </a>
+<a href="https://github.com/ceavinrufus/tucil3-kripto">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=tucil3-kripto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
+<a href="https://github.com/ceavinrufus/tucil4-kripto">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=tucil4-kripto&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
+<a href="https://github.com/ceavinrufus/estate-net">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceavinrufus&repo=estate-net&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
 </details>
 
 ## &#x1f4c8; GitHub Stats
