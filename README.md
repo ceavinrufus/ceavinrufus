@@ -150,7 +150,7 @@ Want to know more about me? [Check out my portfolio.](https://ceavinrufus.vercel
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 How to reach me:
-- Web: [ceavinrufus.vercel.app](https://ceavinrufus.vercel.app)
+- Web: [ceavinrufus.me](https://ceavinrufus.me)
 - Email: [ceavin.dev@gmail.com](mailto:ceavin.dev@gmail.com)
 - LinkedIn: [ceavinrufus](https://www.linkedin.com/in/ceavinrufus)
 - Instagram: [@ceavinrufus](https://instagram.com/ceavinrufus)
