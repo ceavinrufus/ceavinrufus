@@ -97,6 +97,7 @@ Want to know more about me? [Check out my portfolio.](https://ceavinrufus.vercel
 </div>
 
 
+<!--
 ## 💼 Tech & Tools
 
 ### Programming Languages
@@ -156,6 +157,7 @@ Want to know more about me? [Check out my portfolio.](https://ceavinrufus.vercel
 - Instagram: [@ceavinrufus](https://instagram.com/ceavinrufus)
 - Twitter: [@ceavinrufus](https://twitter.com/ceavinrufus)
 - Telegram: [@ceavinrufus](https://t.me/ceavinrufus)
+-->
 
 ---
 © 2023 — Ceavin Rufus
