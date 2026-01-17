@@ -14,7 +14,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceavinrufus/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ceavinrufus/)
 
-Want to know more about me? [Check out my portfolio.](https://ceavinrufus.me/)
+Want to know more about me? [Check out my portfolio.](https://ceavinrufus.my.id/)
 
 ## &#x1f4c8; GitHub Stats
 
