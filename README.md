@@ -16,6 +16,13 @@
 
 Want to know more about me? [Check out my portfolio.](https://ceavinrufus.my.id/)
 
+## 🚀 Featured Project
+
+<a href="https://github.com/ceavinrufus/agentpassport">
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ceavinrufus&repo=agentpassport&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
+
+
 ## &#x1f4c8; GitHub Stats
 
 <div align="center">
@@ -23,7 +30,7 @@ Want to know more about me? [Check out my portfolio.](https://ceavinrufus.my.id/
   <details>
     <summary>My Detail Stats (click me to toggle 👀)</summary>
     <br>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceavinrufus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&layout=compact" alt="Top Languages" /></p>
+    <p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceavinrufus&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&locale=en&layout=compact" alt="Top Languages" /></p>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ceavinrufus&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak" /></p>
     <p><img src="https://github-profile-trophy.vercel.app/?username=ceavinrufus&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
     <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ceavinrufus&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
